@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='center'><samp>
 	Hello!<br />
 	<br />
 	I like to build stuff on my free time.<br />
@@ -7,4 +7,4 @@
 	🎒 I'm at school <b><a href="https://www.42.fr/">42 Paris</a></b><br />
 	<br />
 	<img src="https://badge42.vercel.app/api/v2/cl1wq8xub006909mg0qfjcupf/stats" />
-</p>
+</samp></p>
