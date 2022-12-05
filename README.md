@@ -1,7 +1,6 @@
 # Hi, I'm execrate 😁
 
 <p align='center'>
-	🧸 I like to build stuff on my free time.<br />
 	🔭 I am currently working on <b><a href="https://42.fr/">42 Projects</a></b><br />
 	💬 Most of my projects are private and will remain private until I write a proper <b>README</b> for them !<br />
 	<br />
