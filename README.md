@@ -15,6 +15,11 @@
 - **Tools:** Git, Docker, Kubernetes
 - **Other:** Data Structures, Algorithms, CI/CD
 
+## 🛠️ Projects
+
+- **ft_nmap: Network Mapping and Scanning Tool**: Designed to discover devices and open ports on a network, enhancing network diagnostics and security. `(C++, Socket Programming)`
+- **ft_irc: Internet Relay Chat Server**: Developed an IRC-compatible server capable of handling multiple channels and users, used in conjunction with irssi client. `(C++, Socket Programming)`
+
 ## 📫 How to Reach Me
 
 - 📧 Email: hallainealexandre@gmail.com
