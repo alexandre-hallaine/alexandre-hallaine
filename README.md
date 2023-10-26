@@ -26,10 +26,10 @@ Hello! I'm Alexandre, a disciplined and dedicated software engineer hailing from
 
 ## Highlighted Projects 🌟
 
-### [ShibRC: A Robust IRC Server](https://github.com/alexandre-hallaine/ShibRC)
+### [ShibRC: A Robust IRC Server](https://github.com/alexandre-hallaine/ft_irc)
 Developed in C++, this IRC server adheres to RFC 2812 standards, implementing a broad range of commands and channel modes. Optimized for high concurrency.
 
-### [n-puzzle: Puzzle Solver](https://github.com/alexandre-hallaine/n-puzzle)
+### [n-puzzle: Puzzle Solver](https://github.com/alexandre-hallaine/N-Puzzle)
 A versatile C++ application capable of solving N x N sliding puzzles using A* and other heuristic-based algorithms.
 
 ### [ft_linux: Custom Linux Dist](https://github.com/alexandre-hallaine/ft_linux)
